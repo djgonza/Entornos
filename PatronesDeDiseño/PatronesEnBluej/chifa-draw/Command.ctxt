@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=name
+comment0.target=Command(java.lang.String)
+comment0.text=\r\n\ Constructs\ a\ command\ with\ the\ given\ name.\r\n
+comment1.params=
+comment1.target=void\ execute()
+comment1.text=\r\n\ Executes\ the\ command.\r\n
+comment2.params=
+comment2.target=boolean\ isExecutable()
+comment2.text=\r\n\ Tests\ if\ the\ command\ can\ be\ executed.\r\n
+comment3.params=
+comment3.target=java.lang.String\ name()
+comment3.text=\r\n\ Gets\ the\ command\ name.\r\n
+numComments=4

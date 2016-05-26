@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=
+comment0.target=ManejadorAudio()
+comment0.text=\r\n\ Definimos\ un\ constructor\ privado,\ por\ lo\ tanto\ no\ se\ generar\u00E1\r\n\ un\ \ constructor\ publico\ por\ defecto.\r\n
+comment1.params=
+comment1.target=ManejadorAudio\ getInstancia()
+comment1.text=\r\n\ Retorna\ una\ referencia\ a\ la\ unica\ instancia\ de\ la\ clase\r\n\ ManejadorAudio\r\n\ @return\ ManejadorAudio\ la\ unica\ instancia\ de\ la\ clase\r\n\ ManejadorAudio\r\n
+comment2.params=
+comment2.target=void\ play()
+comment2.text=\r\n\ Empieza\ la\ ejecuci\u00F3n\ del\ audio\ seleccionado.\ Cada\ vez\ que\ se\r\n\ llama\ a\ este\ metodo\ el\ audio\ comienza\ desde\ el\ principio.\r\n
+comment3.params=audio
+comment3.target=void\ play(java.applet.AudioClip)
+comment3.text=\r\n\ Para\ la\ ejecuci\u00F3n\ del\ audio\ que\ se\ esta\ escuchando\ y\ empieza\ el\r\n\ audio\ pasado\ como\ parametro.\r\n\ @param\ audio\ el\ nuevo\ audio\ a\ escuchar.\r\n
+comment4.params=
+comment4.target=void\ loop()
+comment4.text=\r\n\ Se\ escucha\ el\ audio\ en\ un\ bucle.\r\n
+comment5.params=audio
+comment5.target=void\ loop(java.applet.AudioClip)
+comment5.text=\r\n\ Para\ la\ ejecuci\u00F3n\ del\ audio\ que\ se\ esta\ escuchando\ y\ empieza\ el\r\n\ audio\ pasado\ como\ parametro\ en\ un\ bucle.\r\n\ @param\ audio\ el\ nuevo\ audio\ a\ escuchar\ en\ un\ bucle.\r\n
+comment6.params=
+comment6.target=void\ stop()
+comment6.text=\r\n\ Para\ la\ ejecucion\ del\ audio.\r\n
+numComments=7

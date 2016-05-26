@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=alg
+comment0.target=Algoritmos(Ordenacion)
+comment0.text=\r\n\ Constructor\ de\ la\ clase.\r\n\ @param\ alg\ es\ un\ objeto\ de\ tipo\ ordenacion\ con\ el\ cual\r\n\ seleccionamos\ el\ algoritmo\ que\ queremos\ utilizar.\r\n
+comment1.params=a
+comment1.target=int[]\ ordena(int[])
+comment1.text=\r\n\ Con\ este\ m\u00E9todo\ llamamos\ al\ m\u00E9todo\ ordenar\ del\ algoritmo\ elegido.\r\n\ @param\ a[]\ el\ vector\ a\ ordenar.\r\n\ @return\ int[]\ el\ vector\ ordenado.\r\n
+comment2.params=nuevoAlgoritmo
+comment2.target=void\ cambiarAlgoritmo(Ordenacion)
+comment2.text=\r\n\ Este\ m\u00E9todo\ sirve\ para\ cambiar\ la\ selecci\u00F3n\ del\ algoritmo.\r\n\ @param\ nuevoAlgoritmo\ el\ nuevo\ algoritmo\ seleccionado.\r\n
+numComments=3

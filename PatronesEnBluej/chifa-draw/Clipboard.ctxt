@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Clipboard\ getClipboard()
+comment0.text=\r\n\ Gets\ the\ clipboard.\r\n
+comment1.params=
+comment1.target=Clipboard()
+comment2.params=contents
+comment2.target=void\ setContents(java.lang.Object)
+comment2.text=\r\n\ Sets\ the\ contents\ of\ the\ clipboard.\r\n
+comment3.params=
+comment3.target=java.lang.Object\ getContents()
+comment3.text=\r\n\ Gets\ the\ contents\ of\ the\ clipboard.\r\n
+numComments=4

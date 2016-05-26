@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=porcentaje
+comment0.target=void\ setGrayscale(double)
+comment1.params=fontNumber
+comment1.target=void\ setFontNumber(int)
+numComments=2

@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=nValor\ nInferior\ nSuperior
+comment0.target=ValorObservable(int,\ int,\ int)
+comment0.text=\r\n\ Constructor\ al\ que\ indicamos\ el\ valor\ en\ que\ comenzamos\r\n\ y\ los\ limites\ inferior\ y\ superior\ que\ no\ deben\r\n\ sobrepasarse.\r\n
+comment1.params=nValor
+comment1.target=void\ setValor(int)
+comment1.text=\r\n\ Fija\ el\ valor\ que\ le\ pasamos\ y\ notifica\ a\ los\ observadores\ que\r\n\ estan\ pendientes\ del\ cambio\ de\ estado\ de\ los\ objetos\ de\ esta\r\n\ clase,\ que\ su\ estado\ se\ ha\ visto\ alterado.\r\n
+comment2.params=
+comment2.target=int\ getValor()
+comment2.text=\r\n\ Devuelve\ el\ valor\ actual\ que\ tiene\ el\ objeto.\r\n
+comment3.params=
+comment3.target=int\ getLimiteInferior()
+comment3.text=\r\n\ Devuelve\ el\ limite\ inferior\ del\ rango\ de\ valores\ en\ los\ que\ se\r\n\ ha\ de\ mover\ el\ objeto.\r\n
+comment4.params=
+comment4.target=int\ getLimiteSuperior()
+comment4.text=\r\n\ Devuelve\ el\ limite\ superior\ del\ rango\ de\ valores\ en\ los\ que\ se\r\n\ ha\ de\ mover\ el\ objeto.\r\n
+numComments=5

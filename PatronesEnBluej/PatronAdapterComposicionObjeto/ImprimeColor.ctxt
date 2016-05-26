@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=r\ g\ b
+comment0.target=void\ setColor(int,\ int,\ int)
+comment1.params=f
+comment1.target=void\ setFont(java.awt.Font)
+comment2.params=b
+comment2.target=void\ setDuplex(boolean)
+numComments=3

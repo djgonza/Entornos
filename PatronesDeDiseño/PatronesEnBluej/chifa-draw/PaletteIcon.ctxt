@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=size\ normal\ pressed\ selected
+comment0.target=PaletteIcon(java.awt.Dimension,\ java.awt.Image,\ java.awt.Image,\ java.awt.Image)
+comment1.params=
+comment1.target=java.awt.Image\ normal()
+comment2.params=
+comment2.target=java.awt.Image\ pressed()
+comment3.params=
+comment3.target=java.awt.Image\ selected()
+comment4.params=
+comment4.target=int\ getWidth()
+comment5.params=
+comment5.target=int\ getHeight()
+numComments=6

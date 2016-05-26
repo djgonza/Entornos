@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=CommandChoice()
+comment1.params=command
+comment1.target=void\ addItem(Command)
+comment1.text=\r\n\ Adds\ a\ command\ to\ the\ menu.\r\n
+comment2.params=e
+comment2.target=void\ itemStateChanged(java.awt.event.ItemEvent)
+comment2.text=\r\n\ Executes\ the\ command.\r\n
+numComments=3

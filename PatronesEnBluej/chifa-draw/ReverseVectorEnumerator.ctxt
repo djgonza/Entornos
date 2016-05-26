@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=v
+comment0.target=ReverseVectorEnumerator(java.util.Vector)
+comment1.params=
+comment1.target=boolean\ hasMoreElements()
+comment2.params=
+comment2.target=java.lang.Object\ nextElement()
+numComments=3

@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=name
+comment0.target=CommandMenu(java.lang.String)
+comment1.params=command
+comment1.target=void\ add(Command)
+comment1.text=\r\n\ Adds\ a\ command\ to\ the\ menu.\ The\ item's\ label\ is\r\n\ the\ command's\ name.\r\n
+comment2.params=command\ shortcut
+comment2.target=void\ add(Command,\ java.awt.MenuShortcut)
+comment2.text=\r\n\ Adds\ a\ command\ with\ the\ given\ short\ cut\ to\ the\ menu.\ The\ item's\r\n\ label\ is\ the\ command's\ name.\r\n
+comment3.params=command
+comment3.target=void\ remove(Command)
+comment4.params=item
+comment4.target=void\ remove(java.awt.MenuItem)
+comment5.params=name\ state
+comment5.target=void\ enable(java.lang.String,\ boolean)
+comment5.text=\r\n\ Changes\ the\ enabling/disabling\ state\ of\ a\ named\ menu\ item.\r\n
+comment6.params=
+comment6.target=void\ checkEnabled()
+comment7.params=e
+comment7.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment7.text=\r\n\ Executes\ the\ command.\r\n
+numComments=8

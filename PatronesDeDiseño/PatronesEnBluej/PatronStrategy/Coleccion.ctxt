@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Coleccion()
+comment0.text=\r\n\ Este\ es\ el\ constructor\ de\ la\ clase\ y\ lo\ que\ hace\ es\ insertar\ en\ el\r\n\ vector\ los\ 10\ enteros\ desordenados\ y\ se\ imprime\ por\ pantalla\ el\r\n\ contenido\ del\ vector.\r\n
+comment1.params=
+comment1.target=int[]\ convertirEnArray()
+comment1.text=\r\n\ Este\ m\u00E9todo\ pasa\ el\ vector\ de\ tipo\ Vector\ (objetos\ Integer)\ a\r\n\ un\ array\ de\ elementos\ int\ (tipo\ b\u00E1sico\ entero)\ para\ poder\r\n\ ordenarlo.\r\n\ @return\ int[]\ es\ el\ array\ con\ los\ elementos\ int\ del\ vector.\r\n
+comment2.params=b
+comment2.target=java.util.Vector\ convertirEnVector(int[])
+comment2.text=\r\n\ Este\ m\u00E9todo\ pasa\ el\ array\ b[]\ pasado\ como\ parametro\ al\ vector\ de\r\n\ tipo\ Vector\ (objetos\ Integer)\ para\ recorrerlo\ con\ un\ iterator.\r\n\ @param\ b[]\ es\ el\ array\ de\ elementos\ de\ tipo\ int.\r\n\ @return\ Vector\ es\ el\ vector\ de\ elementos\ Integer.\r\n
+comment3.params=index
+comment3.target=java.util.ListIterator\ miiterator(int)
+comment3.text=\r\n\ Retorna\ un\ ListIterator\ que\ es\ un\ interface\ IFIterator\ para\r\n\ vectores\ que\ permite\ recorrer\ el\ vector.\ Este\ interface\ se\ obtiene\r\n\ a\ trav\u00E9s\ del\ metodo\ listIterator\ de\ la\ clase\ Vector\ pasandole\ como\r\n\ par\u00E1metro\ La\ posicion\ especifica\ del\ vector\ por\ la\ que\ empezar\r\n\ el\ recorrido.\r\n\ @param\ index\ indica\ la\ posici\u00F3n\ del\ vector\ por\ la\ que\ empezar\ el\r\n\ recorrido.\r\n\ @return\ ListIterator\ es\ un\ interface\ de\ tipo\ ListIterator.\r\n
+numComments=4

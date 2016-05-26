@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=vo
+comment0.target=BarraObservador(ValorObservable)
+comment0.text=\r\n\ Constructor\ que\ presenta\ una\ ventanita\ con\ la\ barra\ de\r\n\ desplazamiento\ para\ poder\ ir\ alterando\ los\ valores\ del\r\n\ objeto\ observable.\r\n
+comment1.params=obs\ obj
+comment1.target=void\ update(java.util.Observable,\ java.lang.Object)
+comment1.text=\r\n\ Actualizamos\ el\ valor\ que\ corresponde\ al\ n\u00FAmero\ que\r\n\ actualmente\ tiene\ el\ objeto\ que\ estamos\ observando.\r\n
+numComments=2

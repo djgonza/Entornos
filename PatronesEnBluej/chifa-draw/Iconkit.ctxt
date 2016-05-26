@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.params=component
+comment0.target=Iconkit(java.awt.Component)
+comment0.text=\r\n\ Constructs\ an\ Iconkit\ that\ uses\ the\ given\ editor\ to\r\n\ resolve\ image\ path\ names.\r\n
+comment1.params=
+comment1.target=Iconkit\ instance()
+comment1.text=\r\n\ Gets\ the\ single\ instance\r\n
+comment2.params=component
+comment2.target=void\ loadRegisteredImages(java.awt.Component)
+comment2.text=\r\n\ Loads\ all\ registered\ images.\r\n\ \ \ \ Gu\u00EDa\ de\ construcci\u00F3n\ de\ software\ en\ Java\ con\ patrones\ de\ dise\u00F1o\r\n\ \ \ \ Francisco\ Javier\ Mart\u00EDnez\ Juan\ P\u00E1gina\ 414\r\n\ @see\ \#registerImage\r\n
+comment3.params=fileName
+comment3.target=void\ registerImage(java.lang.String)
+comment3.text=\r\n\ Registers\ an\ image\ that\ is\ then\ loaded\ together\ with\r\n\ the\ other\ registered\ images\ by\ loadRegisteredImages.\r\n\ @see\ \#loadRegisteredImages\r\n
+comment4.params=component\ fileName
+comment4.target=java.awt.Image\ registerAndLoadImage(java.awt.Component,\ java.lang.String)
+comment4.text=\r\n\ Registers\ and\ loads\ an\ image.\r\n
+comment5.params=filename
+comment5.target=java.awt.Image\ loadImage(java.lang.String)
+comment5.text=\r\n\ Loads\ an\ image\ with\ the\ given\ name.\r\n
+comment6.params=resourcename
+comment6.target=java.awt.Image\ loadImageResource(java.lang.String)
+comment7.params=filename
+comment7.target=java.awt.Image\ getImage(java.lang.String)
+comment7.text=\r\n\ Gets\ the\ image\ with\ the\ given\ name.\ If\ the\ image\r\n\ can't\ be\ found\ it\ tries\ it\ again\ after\ loading\r\n\ all\ the\ registered\ images.\r\n
+comment8.params=filename
+comment8.target=java.awt.Image\ basicGetImage(java.lang.String)
+numComments=9

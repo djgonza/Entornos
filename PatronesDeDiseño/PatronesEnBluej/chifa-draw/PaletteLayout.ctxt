@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.params=gap
+comment0.target=PaletteLayout(int)
+comment0.text=\r\n\ Initializes\ the\ palette\ layout.\r\n\ @param\ gap\ the\ gap\ between\ palette\ entries.\r\n
+comment1.params=gap\ border
+comment1.target=PaletteLayout(int,\ java.awt.Point)
+comment2.params=gap\ border\ vertical
+comment2.target=PaletteLayout(int,\ java.awt.Point,\ boolean)
+comment3.params=name\ comp
+comment3.target=void\ addLayoutComponent(java.lang.String,\ java.awt.Component)
+comment4.params=comp
+comment4.target=void\ removeLayoutComponent(java.awt.Component)
+comment5.params=target
+comment5.target=java.awt.Dimension\ preferredLayoutSize(java.awt.Container)
+comment6.params=target
+comment6.target=java.awt.Dimension\ minimumLayoutSize(java.awt.Container)
+comment7.params=target
+comment7.target=void\ layoutContainer(java.awt.Container)
+numComments=8

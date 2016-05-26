@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=parent
+comment0.target=DialogAbout(java.awt.Frame)
+comment0.text=\r\n\ Es\ el\ constructor\ de\ la\ clase.\r\n
+comment1.params=e
+comment1.target=void\ windowClosing(java.awt.event.WindowEvent)
+comment2.params=g
+comment2.target=void\ paint(java.awt.Graphics)
+comment2.text=\r\n\ Este\ m\u00E9todo\ pinta\ en\ el\ cuadro\ las\ frases\ que\ aparecen\ en\r\n\ \u00E9l,\ en\ la\ posici\u00F3n\ deseada\ y\ con\ el\ color\ y\ fuentes\r\n\ deseados.\r\n
+numComments=3

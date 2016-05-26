@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=width\ height
+comment0.target=Filler(int,\ int)
+comment1.params=width\ height\ background
+comment1.target=Filler(int,\ int,\ java.awt.Color)
+comment2.params=
+comment2.target=java.awt.Dimension\ getMinimumSize()
+comment3.params=
+comment3.target=java.awt.Dimension\ getPreferredSize()
+comment4.params=
+comment4.target=java.awt.Color\ getBackground()
+numComments=5

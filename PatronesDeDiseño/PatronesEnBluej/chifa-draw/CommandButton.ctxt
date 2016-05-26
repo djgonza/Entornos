@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=command
+comment0.target=CommandButton(Command)
+comment0.text=\r\n\ Initializes\ the\ button\ with\ the\ given\ command.\r\n\ The\ command's\ name\ is\ used\ as\ the\ label.\r\n
+comment1.params=e
+comment1.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment1.text=\r\n\ Executes\ the\ command.\ If\ the\ command's\ name\ was\ changed\r\n\ as\ a\ result\ of\ the\ command\ the\ button's\ label\ is\ updated\r\n\ accordingly.\r\n
+numComments=2

@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=vo
+comment0.target=TextoObservador(ValorObservable)
+comment0.text=\r\n\ Constructor\ en\ el\ que\ creamos\ una\ ventana\ donde\ poder\r\n\ introducir\ el\ valor\ numerico\ que\ represente\ la\r\n\ cantidad\ que\ corresponda\ al\ objeto\ observable.\r\n
+comment1.params=obs\ obj
+comment1.target=void\ update(java.util.Observable,\ java.lang.Object)
+comment1.text=\r\n\ Actualizamos\ el\ valor\ del\ objeto\ que\ estamos\ observando\r\n\ en\ nuestro\ campo\ de\ texto,\ para\ reflejar\ el\ valor\ actual\r\n\ del\ objeto.\r\n
+numComments=2

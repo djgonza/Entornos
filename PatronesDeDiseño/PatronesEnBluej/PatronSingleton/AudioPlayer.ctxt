@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ init()
+comment0.text=\r\n\ Este\ m\u00E9todo\ es\ el\ que\ inicializa\ el\ applet\ y\ muestra\r\n\ en\ la\ pantalla\ los\ botones\ y\ los\ radio\ botones.\r\n
+comment1.params=
+comment1.target=void\ stop()
+comment1.text=\r\n\ Este\ metodo\ se\ ejecuta\ cuando\ se\ para\ el\ applet\ y\ lo\r\n\ que\ hace\ es\ parar\ el\ audio\ si\ esta\ sonando.\r\n
+comment2.params=g
+comment2.target=void\ paint(java.awt.Graphics)
+comment2.text=\r\n\ Esta\ clase\ es\ la\ que\ pinta\ en\ la\ pantalla,\ pone\ el\ nombre\r\n\ AUDIO\ PLAYER\ y\ visualiza\ una\ foto\ si\ esta\ asignada\ a\ la\r\n\ variable\ fondo\ de\ tipo\ image.\r\n
+numComments=3

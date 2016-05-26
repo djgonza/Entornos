@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=a
+comment0.target=int[]\ ordenar(int[])
+comment0.text=\r\n\ Este\ m\u00E9todo\ es\ el\ que\ se\ utiliza\ para\ ejecutar\ cualquiera\r\n\ de\ los\ algoritmos\ de\ ordenaci\u00F3n\ y\ ser\u00E1\ implementado\ por\ el\r\n\ algoritmo\ de\ ordenaci\u00F3n\ determinado.\r\n
+numComments=1

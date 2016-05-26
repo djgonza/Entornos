@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=name\ color
+comment0.target=ColorEntry(java.lang.String,\ java.awt.Color)
+comment1.params=
+comment1.target=int\ size()
+comment2.params=index
+comment2.target=java.awt.Color\ color(int)
+comment3.params=name
+comment3.target=java.awt.Color\ color(java.lang.String)
+comment4.params=index
+comment4.target=java.lang.String\ name(int)
+comment5.params=color
+comment5.target=int\ colorIndex(java.awt.Color)
+comment6.params=color
+comment6.target=boolean\ isTransparent(java.awt.Color)
+numComments=7

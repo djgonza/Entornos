@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=MiSingleton()
+comment0.text=\r\n\ Constructor\ PRIVADO,\ llamado\ al\ declarar\ la\ clase.\r\n\ Debe\ existir\ un\ constructor\ privado\ al\ menos,\ para\ que\ no\ se\r\n\ genere\ automaticamente\ un\ constructor\ publico\ sin\ parametros.\r\n
+comment1.params=
+comment1.target=MiSingleton\ getInstancia()
+comment1.text=\r\n\ Metodo\ estatico\ PUBLICO\ que\ devuelve\ el\ unico\ objeto.\r\n\ se\ le\ llama\ desde\ fuera\ con\:\r\n\ \ \ \ \ \ MiSingleton\ instancia\ \=\ new\ MiSingleton.getInstancia();\r\n
+numComments=2

@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Factoria()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Factoria\r\n
+comment1.params=tipo
+comment1.target=SuperTipo\ getElemento(int)
+numComments=2
